@@ -1,2 +1,2 @@
 # computer-status-checker
-check computer status
+检测电脑是否处于开机状态。
